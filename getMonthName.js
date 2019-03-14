@@ -1,8 +1,21 @@
 function getMonthName(place) {
     const months = [
-        'january',
-        'february',
-        'march',
-        'april'
-    ]
+        'January',
+        'February',
+        'March',
+        'April',
+        'May',
+        'June',
+        'July',
+        'August',
+        'September',
+        'October',
+        'November',
+        'December'
+    ];
+
+    return months[place];
 }
+
+
+
