@@ -16,3 +16,8 @@ getRandomNumber(1, 10);
 getURLSlug('My Favorite Songs');
 //=> 'my-favorite-songs'
 ```
+
+```
+getInitials('for your information');
+//=> 'FYI'
+```
