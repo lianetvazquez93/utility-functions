@@ -19,5 +19,5 @@ getURLSlug('My Favorite Songs');
 
 ```
 getInitials('for your information');
-//=> 'FYI'
+//=> 'F.Y.I'
 ```
